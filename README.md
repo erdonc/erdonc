@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Stargazers over time
+[![Stargazers over time](https://starchart.cc/xaoxuu/hexo-theme-stellar.svg)](https://starchart.cc/xaoxuu/hexo-theme-stellar)
 
-[![Stargazers over time](https://starchart.cc/xaoxuu/hexo-theme-stellar.svg)](https://starchart.cc/erdonc/hexo-theme-stellar)
