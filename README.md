@@ -1,4 +1,4 @@
-### Hi there 👋
+### 快乐生活！
 
 <!--
 **erdonc/erdonc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
